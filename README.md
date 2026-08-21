@@ -1,4 +1,4 @@
-networkwalks-B082-🔐 WEEK 2 | CYBERSECURITY PROJECTS
+<img width="1920" height="839" alt="nslookup" src="https://github.com/user-attachments/assets/586b433a-3534-4604-9375-9b27bfde0596" />networkwalks-B082-🔐 WEEK 2 | CYBERSECURITY PROJECTS
 # FOOTPRINTING &amp; RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS
 
 <p align="center">
@@ -76,6 +76,7 @@ Kali Linux was used as the primary cybersecurity environment for performing reco
 ---
 
 ## 🔍 WHOIS
+<img width="1920" height="1080" alt="Whois" src="https://github.com/user-attachments/assets/6a95b924-b952-4fd5-9d8c-a7ff7c2e3a22" />
 
 **Purpose:** Domain registration and ownership information lookup.
 
@@ -84,6 +85,7 @@ WHOIS was used to examine publicly available domain registration information and
 ---
 
 ## 🌐 WhatWeb
+<img width="1911" height="783" alt="whatweb" src="https://github.com/user-attachments/assets/ecbb84a1-6bd6-4d2c-bc6a-46f58bb099a7" />
 
 **Purpose:** Web technology fingerprinting.
 
@@ -92,6 +94,7 @@ WhatWeb was used to identify technologies, frameworks, servers, and other inform
 ---
 
 ## 📡 NSLookup
+<img width="1920" height="839" alt="nslookup" src="https://github.com/user-attachments/assets/ed04642e-5d0b-4d09-9e95-c250674f4dfa" />
 
 **Purpose:** DNS and domain resolution.
 
@@ -100,6 +103,7 @@ NSLookup was used to query DNS information and resolve domain names to associate
 ---
 
 ## 📥 cURL
+<img width="952" height="958" alt="Curl _I" src="https://github.com/user-attachments/assets/52ce15dd-714a-4da7-8d50-931b55a9dcad" />
 
 **Purpose:** HTTP response and header analysis.
 
@@ -108,6 +112,7 @@ cURL was used to inspect HTTP response headers and identify information exposed 
 ---
 
 ## 🛡️ WAFW00F
+![Uploading wafw00f.JPG…]()
 
 **Purpose:** Web Application Firewall detection.
 
