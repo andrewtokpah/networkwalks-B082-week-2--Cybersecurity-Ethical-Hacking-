@@ -1,7 +1,5 @@
-# # networkwalks-B082-week-2--Cybersecurity-Ethical-Hacking-
+# # networkwalks-B082-🔐 WEEK 2 | CYBERSECURITY PROJECTS
 # FOOTPRINTING &amp; RECONNAISSANCE ATTACKS  WITH MULTIPLE KALI TOOLS
-
-# 🔐 WEEK 2 | CYBERSECURITY PROJECTS
 
 <p align="center">
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux Logo" width="120"/>
@@ -389,7 +387,17 @@ WEEK-2-CYBERSECURITY-PROJECTS/
     ├── Final-Project-Report.pdf
     └── README.md
 ```
+👨‍💻 Author
 
+<p align="center">
+
+Andrew Maneply Tokpah
+
+Data Analyts | Emerging Cybersecurity Professional
+
+🔐 Learning, practicing, documenting, and growing in cybersecurity.
+
+</p>
 ---
 
 ### ⚠️ Disclaimer
