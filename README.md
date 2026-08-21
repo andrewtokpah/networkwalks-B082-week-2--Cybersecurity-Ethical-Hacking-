@@ -1,4 +1,4 @@
-# # networkwalks-B082-🔐 WEEK 2 | CYBERSECURITY PROJECTS
+networkwalks-B082-🔐 WEEK 2 | CYBERSECURITY PROJECTS
 # FOOTPRINTING &amp; RECONNAISSANCE ATTACKS  WITH MULTIPLE KALI TOOLS
 
 <p align="center">
@@ -7,12 +7,13 @@
 
 <p align="center">
 
+<p align="center">
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-success?style=for-the-badge)
 ![Project](https://img.shields.io/badge/Project-Week%202-orange?style=for-the-badge)
 
 </p>
-
+<p align="center">
 ## 📌 Project Overview
 
 This repository contains my **Week 2 Cybersecurity Projects**, focusing on two important areas of cybersecurity assessment:
@@ -160,6 +161,7 @@ The tools used included:
 ![DNSRecon](https://img.shields.io/badge/DNSRecon-DNS%20Enumeration-yellow?style=for-the-badge)
 
 </p>
+<p align="center">
 
 Each tool provided a different piece of information that contributed to building a broader profile of the target's publicly exposed infrastructure.
 
