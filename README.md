@@ -197,8 +197,7 @@ The collected information provides a clearer understanding of the target's publi
 
 ## 📖 Overview
 
-<p align="center">
-  <img src="https://nmap.org/images/zenmap.png" alt="Zenmap Logo" width="200"/>
+<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="80"/>
 </p>
 
 This module focuses on using **Zenmap**, the graphical user interface for Nmap, to perform and analyze network scanning activities in an authorized environment.
@@ -390,8 +389,9 @@ WEEK-2-CYBERSECURITY-PROJECTS/
 <p align="center">
 
 Andrew Maneply Tokpah
-
-Data Analyts | Emerging Cybersecurity Professional
+Data Analyts | Emerging Cybersecurity Professional Interm
+My thanks and appreciations goes to Networkwalks
+LinkedIn:https://www.linkedin.com/in/andrew-maneply-tokpah-692243429/
 
 🔐 Learning, practicing, documenting, and growing in cybersecurity.
 
