@@ -305,6 +305,7 @@ This project provided several important cybersecurity lessons:
 The final project report combines the selected Week 2 cybersecurity modules into a comprehensive documentation of the practical exercises completed.
 
 The report includes:
+https://github.com/andrewtokpah/networkwalks-B082-week-2--Cybersecurity-Ethical-Hacking-/blob/main/W2-PM-FINAL%20-%20Sample%20Report%20v2.pdf
 
 * 🎯 Project background and objectives
 * 🔧 Tools and technologies used
