@@ -68,7 +68,7 @@ Through this project, I explored how different tools can be used to gather infor
 ## 🐉 Kali Linux
 
 <p align="center">
-  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="100"/>
+   <img width="981" height="1072" alt="Kali image" src="https://github.com/user-attachments/assets/64277190-4f1d-4947-af6d-0ca3e50ac11b" />
 </p>
 
 Kali Linux was used as the primary cybersecurity environment for performing reconnaissance and security assessment activities.
