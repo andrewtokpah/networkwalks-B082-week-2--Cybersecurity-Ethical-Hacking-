@@ -1,4 +1,4 @@
-<img width="1920" height="839" alt="nslookup" src="https://github.com/user-attachments/assets/586b433a-3534-4604-9375-9b27bfde0596" />networkwalks-B082-🔐 WEEK 2 | CYBERSECURITY PROJECTS
+networkwalks-B082-🔐 WEEK 2 | CYBERSECURITY PROJECTS
 # FOOTPRINTING &amp; RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS
 
 <p align="center">
