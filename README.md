@@ -393,9 +393,8 @@ WEEK-2-CYBERSECURITY-PROJECTS/
 
 Andrew Maneply Tokpah
 Data Analyts | Emerging Cybersecurity Professional Interm
-My thanks and appreciations goes to Networkwalks
+<p> My thanks and appreciations goes to Networkwalks</p>
 LinkedIn:https://www.linkedin.com/in/andrew-maneply-tokpah-692243429/
-```
 🔐 Learning, practicing, documenting, and growing in cybersecurity.
 
 </p>
