@@ -122,9 +122,9 @@ WAFW00F was used to determine whether the target website appeared to be protecte
 ---
 
 ## 🧭 DNSRecon
+<img width="1920" height="993" alt="Target" src="https://github.com/user-attachments/assets/2039b97b-3c25-453f-8d2e-8024d601c9a5" />
 
 **Purpose:** DNS enumeration.
-
 DNSRecon was used to collect and analyze available DNS records associated with the authorized target.
 
 ---
