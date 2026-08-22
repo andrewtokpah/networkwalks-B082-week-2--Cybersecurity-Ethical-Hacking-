@@ -112,7 +112,8 @@ cURL was used to inspect HTTP response headers and identify information exposed 
 ---
 
 ## 🛡️ WAFW00F
-![Uploading wafw00f.JPG…]()
+ 
+<img width="961" height="952" alt="wafw00f" src="https://github.com/user-attachments/assets/93ad4bb6-0f7e-45da-97ea-cee53f21123e" />
 
 **Purpose:** Web Application Firewall detection.
 
@@ -127,12 +128,8 @@ WAFW00F was used to determine whether the target website appeared to be protecte
 DNSRecon was used to collect and analyze available DNS records associated with the authorized target.
 
 ---
-
 ## 🛰️ Zenmap / Nmap
-
-<p align="center">
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap Logo" width="100"/>
-</p>
+ <img width="1897" height="993" alt="zanmap" src="https://github.com/user-attachments/assets/084ffd42-ae03-4b28-aa78-f83d0d7d4a49" />
 
 Zenmap, the graphical interface for Nmap, was used to perform and analyze network scanning activities in an authorized environment.
 
@@ -398,7 +395,7 @@ Andrew Maneply Tokpah
 Data Analyts | Emerging Cybersecurity Professional Interm
 My thanks and appreciations goes to Networkwalks
 LinkedIn:https://www.linkedin.com/in/andrew-maneply-tokpah-692243429/
-
+```
 🔐 Learning, practicing, documenting, and growing in cybersecurity.
 
 </p>
